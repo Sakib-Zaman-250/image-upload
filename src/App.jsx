@@ -1,10 +1,12 @@
-import ContactUs from "./pages/Contactus";
-import Upload from "./pages/upload";
+// import ContactUs from "./pages/Contactus";
+import ContactUsTwo from "./pages/ContactUsTwo";
+// import Upload from "./pages/upload";
 
 export default function App() {
   return (
     <div>
-      <ContactUs />
+      <ContactUsTwo />
+      {/* <ContactUs /> */}
       {/* <Upload /> */}
     </div>
   )
